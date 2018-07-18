@@ -1,0 +1,2 @@
+npm install -g create-react-app //para libreria
+create-react-app nombre del app 
